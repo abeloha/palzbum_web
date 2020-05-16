@@ -27,7 +27,7 @@ This web app allows graduating students or teams engaged in a project to create 
 
 
 ### Palzbum App
-![Preview](https://raw.githubusercontent.com/abeloha/palzbum/master/demo/app.png)
+![Preview](https://raw.githubusercontent.com/abeloha/palzbum_web/master/demo/app.png)
 Palzbum android app syncronizes with the web version to make your team album and profile book available offline. The android app can be installed from Google Play store at https://play.google.com/store/apps/details?id=com.palzbum.app.suprixtechnology.
 
 
